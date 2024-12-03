@@ -18,6 +18,7 @@
 - Kibana
 - Apache ZooKeeper
 - Apache Cassandra
+- Apache Spark
 - Contenedores Docker
 
 ## Setup
